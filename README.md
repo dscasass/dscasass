@@ -51,6 +51,7 @@ Suelo disfrutar mucho estar en mi propio espacio, aunque con las personas que qu
 
 
 
+
 ## ACTUALMENTE
 
 - Estudio **Creación Digital** en la Universidad del Bosque.
@@ -89,6 +90,11 @@ También tengo conocimientos básicos de **Python** adquiridos durante la escuel
   </a>
 </p>
 
+<p align="center">
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/5f37b54e-158d-460c-bc86-f7e09b17f304" />
+</p>
+
+
 
 ### DATOS CURIOSOS
 
@@ -113,8 +119,12 @@ También tengo conocimientos básicos de **Python** adquiridos durante la escuel
 
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=dscasass&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dscasass&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes"/> </p>
 
+<p align="center">
+<img width="150" height="90" alt="Image" src="https://github.com/user-attachments/assets/d7c9bceb-4ae4-4b5d-a55b-ae22193cd71e" />
+</p>
 
-### 🚀 Proyecto destacado
+
+## ALGUNOS PROYECTOS
 
 **TALLER GIT**
 
@@ -124,8 +134,12 @@ Este es uno de los primeros proyectos que he realizado para aprender a usar **Gi
 
 [→ Ver proyecto](https://github.com/dscasass/taller-git)
 
+<p align="left">
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/40a95f13-d043-46a2-a527-93a368de5d4c" />
+</p>
 
-### Contáctame
+
+## CONTACTEME
 
 <p align="center">
   <a href="mailto:dcasass@unbosque.edu.co">
@@ -135,3 +149,8 @@ Este es uno de los primeros proyectos que he realizado para aprender a usar **Gi
 
 
 <h3 align="center"> ¡𝘎𝘳𝘢𝘤𝘪𝘢𝘴 𝘱𝘰𝘳 𝘷𝘪𝘴𝘪𝘵𝘢𝘳 𝘮𝘪 𝘱𝘦𝘳𝘧𝘪𝘭! </h3>
+
+<p align="center">
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/512947cf-2ae2-46bf-8b8b-7b736059e46b" />
+</p>
+
