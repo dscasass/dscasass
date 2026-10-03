@@ -1,35 +1,43 @@
-# HOLA SOY SOFIA
-
+# ᴴᴵ
 <p align="center">
   <img width="130" height="150" src="https://github.com/user-attachments/assets/3e8f04b6-0d1c-41f2-8623-7884de592d89">
 </p>
 
+<h2 align="center">
+𝘚𝘖𝘠 𝘚𝘖𝘍𝘐𝘈
+</h2>
+
 <p align="center">
-  <b>Estudiante de Creación Digital | Artista | Gamer | Diseñadora </b>
+  <b>𝑬𝒔𝒕𝒖𝒅𝒊𝒂𝒏𝒕𝒆 𝒅𝒆 𝑪𝒓𝒆𝒂𝒄𝒊𝒐𝒏 𝑫𝒊𝒈𝒊𝒕𝒂𝒍 | 𝑨𝒓𝒕𝒊𝒔𝒕𝒂 | 𝑮𝒂𝒎𝒆𝒓 | 𝑫𝒊𝒔𝒆𝒏𝒂𝒅𝒐𝒓𝒂 </b></p>
+  <!-- Letra sacados de https://glyphy.io/es/font-generator-->
+  <p align="center">
+————————————————
+    <!-- Linea sacada de https://copy-paste.net/es/text-dividers.php-->
 </p>
 
----
 
 # SOBRE MI
 
 
 <p align="center">
-  <img width="150" src="https://github.com/user-attachments/assets/a49aa43b-b12d-43f0-a0af-bfb97f9ea087">
+  <img width="155" src="https://github.com/user-attachments/assets/a49aa43b-b12d-43f0-a0af-bfb97f9ea087">
   &nbsp;&nbsp;&nbsp;
   <img width="150" src="https://github.com/user-attachments/assets/f30de5ea-7d82-4605-8554-fb7b3ec8c70a">
 </p>
 
+<h3 align="center"> sᴏʏ ᴇsᴛᴜᴅɪᴀɴᴛᴇ ᴅᴇ ᴄʀᴇᴀᴄɪᴏɴ ᴅɪɢɪᴛᴀʟ </h3>
 
-Soy estudiante de **Creación Digital**, una persona creativa y bastante imaginativa.
-
+Una persona creativa y bastante imaginativa.
 Me gusta **dibujar, crear personajes e historias** y perderme en mundos que yo misma invento. También me gustan los **videojuegos, el cosplay, el diseño y trabajar con porcelana**.
 
 Suelo disfrutar mucho estar en mi propio espacio, aunque con las personas que quiero puedo ser bastante sociable.
 
-> Me encanta experimentar con ideas nuevas y convertir lo que imagino en algo visual aunque no entienda el proceso pero se confia hasta el resultado.
+
+<p align="center">
+<img width="90" height="90" alt="Image" src="https://github.com/user-attachments/assets/3b1e23c1-3564-4797-8a2f-0a4d3bdcd90a" />
+</p>
 
 
----
 
 ## MIS INTERESES
 
@@ -50,15 +58,12 @@ Suelo disfrutar mucho estar en mi propio espacio, aunque con las personas que qu
 - Estoy aprendiendo **Git, Python, HTML/CSS, UX/UI**, entre otros.
 
 
-
-
-
 ### DATOS CURIOSOS
 
 > Me encanta el diseño de personajes y crear historias para ellos. ♡
+ <!-- simbolos sacados de https://www.messletters.com/es/symbols/-->
 
-
- _Vivo en Bogota pero soy originalmente de subachoque cundinamarca_
+- _Vivo en Bogota pero soy originalmente de subachoque cundinamarca_
      <p>Un hermoso pueblo entre montañas</p>
 
   <p align="center">
@@ -66,7 +71,7 @@ Suelo disfrutar mucho estar en mi propio espacio, aunque con las personas que qu
     <img src="https://img.shields.io/badge/Ubicación-Subachoque%2C_Cundinamarca-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps"/>
   </a>
 </p>
-<img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/89ca59c4-44aa-44e8-8f3c-1a11c1feded2" />
+<img width="90" height="90" alt="Image" src="https://github.com/user-attachments/assets/aa62c2aa-2a01-4c1f-8387-75a0b8a4935c" />
 
 
 ---
