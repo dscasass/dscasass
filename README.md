@@ -34,7 +34,7 @@ Suelo disfrutar mucho estar en mi propio espacio, aunque con las personas que qu
 
 
 <p align="center">
-<img width="90" height="90" alt="Image" src="https://github.com/user-attachments/assets/3b1e23c1-3564-4797-8a2f-0a4d3bdcd90a" />
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/3b1e23c1-3564-4797-8a2f-0a4d3bdcd90a" />
 </p>
 
 
@@ -57,26 +57,8 @@ Suelo disfrutar mucho estar en mi propio espacio, aunque con las personas que qu
 - Hago proyectos universitarios y creativos o me la paso pintando figuras en 3D o vendiendo figuras en porcelanicrón.
 - Estoy aprendiendo **Git, Python, HTML/CSS, UX/UI**, entre otros.
 
-
-### DATOS CURIOSOS
-
-> Me encanta el diseño de personajes y crear historias para ellos. ♡
- <!-- simbolos sacados de https://www.messletters.com/es/symbols/-->
-
-- _Vivo en Bogota pero soy originalmente de subachoque cundinamarca_
-     <p>Un hermoso pueblo entre montañas</p>
-
-  <p align="center">
-  <a href="[https://maps.app.goo.gl/TU_ENLACE_DE_MAPS](https://share.google/24PI59pLrqylM7QMA)" target="_blank">
-    <img src="https://img.shields.io/badge/Ubicación-Subachoque%2C_Cundinamarca-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps"/>
-  </a>
-</p>
-<img width="90" height="90" alt="Image" src="https://github.com/user-attachments/assets/aa62c2aa-2a01-4c1f-8387-75a0b8a4935c" />
-
-
----
-
-### 🛠️ Herramientas que sé usar
+  
+### Herramientas que sé usar
 
 Se usar: Illustrator, Photoshop, Figma y Visual Studio Code, Python (un poco por la escuela), etc.
 
@@ -88,4 +70,23 @@ Se usar: Illustrator, Photoshop, Figma y Visual Studio Code, Python (un poco por
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+
+### DATOS CURIOSOS
+
+> Me encanta el diseño de personajes y crear historias para ellos. ♡
+ <!-- simbolos sacados de https://www.messletters.com/es/symbols/-->
+
+- _Vivo en Bogota pero soy originalmente de subachoque cundinamarca_
+     <p>Un hermoso pueblo entre montañas</p>
+
+  <p align="center">
+  <a href="https://www.google.com/maps/place/Subachoque,+Cundinamarca" target="_blank">
+   <img width="200" height="300" alt="Image" src="https://github.com/user-attachments/assets/fcf9a4b9-b0de-4220-8c3f-cd2bf7beff09" />
+  </a>
+</p>
+
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/aa62c2aa-2a01-4c1f-8387-75a0b8a4935c" />
+
+
 
