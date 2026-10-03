@@ -1,23 +1,61 @@
-<h1 align="center">¡HOLI!</h1>
+# HOLA SOY SOFIA
 
 <p align="center">
- <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/a49aa43b-b12d-43f0-a0af-bfb97f9ea087" />
-<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/f30de5ea-7d82-4605-8554-fb7b3ec8c70a" />
+  <img width="130" height="150" src="https://github.com/user-attachments/assets/3e8f04b6-0d1c-41f2-8623-7884de592d89">
 </p>
 
-<h3 align="center">Soy Sofía Casas</h3>
-<P align="center">Estudiante de creación digital</P>
+<p align="center">
+  <b>Estudiante de Creación Digital | Artista | Gamer | Diseñadora </b>
+</p>
 
 ---
 
 # SOBRE MI
 
--  Estudio creación digital en la Universidad del bosque
--  Actualmente estoy trabajando en proyectos universitarios y creativos.
--  Estoy aprendiendo Git, Python, HTML/CSS, UX/UI, entre otros
 
-- *Dato curioso:* ¡Me encanta el diseño de personajes! y mi avatar es este:
- <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/0ac5027f-89ae-42a5-93be-09a31d941c6d" />
+<p align="center">
+  <img width="150" src="https://github.com/user-attachments/assets/a49aa43b-b12d-43f0-a0af-bfb97f9ea087">
+  &nbsp;&nbsp;&nbsp;
+  <img width="150" src="https://github.com/user-attachments/assets/f30de5ea-7d82-4605-8554-fb7b3ec8c70a">
+</p>
+
+
+Soy estudiante de **Creación Digital**, una persona creativa y bastante imaginativa.
+
+Me gusta **dibujar, crear personajes e historias** y perderme en mundos que yo misma invento. También me gustan los **videojuegos, el cosplay, el diseño y trabajar con porcelana**.
+
+Suelo disfrutar mucho estar en mi propio espacio, aunque con las personas que quiero puedo ser bastante sociable.
+
+> Me encanta experimentar con ideas nuevas y convertir lo que imagino en algo visual aunque no entienda el proceso pero se confia hasta el resultado.
+
+
+---
+
+## MIS INTERESES
+
+- Dibujo
+- Videojuegos
+- Diseño
+- Creación de personajes
+- Cosplay
+- Porcelana
+- Animales
+
+
+
+## ACTUALMENTE
+
+- Estudio **Creación Digital** en la Universidad del Bosque.
+- Hago proyectos universitarios y creativos o me la paso pintando figuras en 3D o vendiendo figuras en porcelanicrón.
+- Estoy aprendiendo **Git, Python, HTML/CSS, UX/UI**, entre otros.
+
+
+
+
+
+### DATOS CURIOSOS
+
+> Me encanta el diseño de personajes y crear historias para ellos. ♡
 
 
  _Vivo en Bogota pero soy originalmente de subachoque cundinamarca_
