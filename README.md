@@ -108,3 +108,30 @@ También tengo conocimientos básicos de **Python** adquiridos durante la escuel
 
 
 
+
+## MIS ESTADISTICAS EN GITHUB
+
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=dscasass&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dscasass&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes"/> </p>
+
+
+### 🚀 Proyecto destacado
+
+**TALLER GIT**
+
+Este es uno de los primeros proyectos que he realizado para aprender a usar **Git y GitHub**. En él practiqué diferentes comandos, commits y la organización de un repositorio.
+
+**Usé:** Git | GitHub | Markdown
+
+[→ Ver proyecto](https://github.com/dscasass/taller-git)
+
+
+### Contáctame
+
+<p align="center">
+  <a href="mailto:dcasass@unbosque.edu.co">
+    <img src="https://img.shields.io/badge/Email-dcasass%40unbosque.edu.co-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
+  </a>
+</p>
+
+
+<h3 align="center"> ¡𝘎𝘳𝘢𝘤𝘪𝘢𝘴 𝘱𝘰𝘳 𝘷𝘪𝘴𝘪𝘵𝘢𝘳 𝘮𝘪 𝘱𝘦𝘳𝘧𝘪𝘭! </h3>
